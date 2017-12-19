@@ -1,0 +1,15 @@
+html, body {
+background: url(../img/background.jpg);
+background-size: cover;
+}
+
+.clipboardData {
+	display: none;
+}
+
+.buttons {
+	padding: 40px;
+}
+.button {
+	margin:5px;
+}
